@@ -1,7 +1,7 @@
 /* MSF OCA Lab Tracker - service worker
    Caches the app shell so the installed PWA runs fully offline.
    Bump CACHE (e.g. v1 -> v2) whenever you deploy a new index.html. */
-const CACHE = 'msf-oca-tracker-v32';
+const CACHE = 'msf-oca-tracker-v33';
 const ASSETS = [
   './',
   './index.html',
